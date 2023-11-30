@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Bernard+MT&weight=400&size=32&duration=5000&pause=800&background=4E1DFF00&center=true&vCenter=true&random=false&width=640&height=60&lines=Dondray+Busha+Benton%2C+a+Senior+Software+Engineer;Full+Stack+React+Node+Python+Engineer;LangChain+%26+LLM+%26+NLP+%26+Chatbot+Expert" alt="Typing SVG" />
 </p>
 
-- 👨‍💻 All of my projects are available at [https://mateus217-portfolio.netlify.app/](https://mateus217-portfolio.netlify.app/)
-
-- 📫 How to reach me **mateusmelo.workspace@gmail.com**
+- 📫 How to reach me **dondray322@gmail.com**
 
 - ⚡ Fun fact **Code Optimization && Problem-Solving**
 
