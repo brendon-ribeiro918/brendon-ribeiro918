@@ -4,9 +4,9 @@
 
 - 📫 How to reach me **dondray322@gmail.com**
 
-- ⚡ Fun fact **Code Optimization && Problem-Solving**
+- ⚡ Fun fact :: **Code Optimization && Problem-Solving**
 
-- 💪 My hobbies **Mathematics && Algorithms** 
+- 💪 My hobbies :: **Mathematics && Algorithms** 
 
 ## 📖 Skills
 
