@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -71,7 +72,9 @@
   <img src="https://img.shields.io/badge/Blockchain-4A154B?style=for-the-badge&logo=blockchain&logoColor=white">
   <img src="https://img.shields.io/badge/Bittensor-00C7B7?style=for-the-badge&logo=bittensor&logoColor=white">
   <img src="https://img.shields.io/badge/Etherium-FF5722?style=for-the-badge&logo=etherium&logoColor=white">
+  <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white">
   <img src="https://img.shields.io/badge/Smart Contracts-2F3134?style=for-the-badge&logo=smart-contracts&logoColor=white">
+  <img src="https://img.shields.io/badge/Solidity-00599C?style=for-the-badge&logo=solidity&logoColor=white">
   <img src="https://img.shields.io/badge/NFT-00000F?style=for-the-badge&logo=nft&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-430098?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FE7A16?style=for-the-badge&logo=firebase&logoColor=white">
