@@ -49,7 +49,9 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Memgraph-DD0031?style=for-the-badge&logo=memgraph&logoColor=white">
+  <img src="https://img.shields.io/badge/Neo4j-339933?style=for-the-badge&logo=neo4j&logoColor=white">
   <img src="https://img.shields.io/badge/GraphQL-203759?style=for-the-badge&logo=graphql&logoColor=EEF37B">
   <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white">
   <img src="https://img.shields.io/badge/Socket.io-0054F7?style=for-the-badge&logo=socketdotio&logoColor=white">
@@ -66,16 +68,19 @@
   <img src="https://img.shields.io/badge/ChatGPT-FF5722?style=for-the-badge&logo=chatgpt&logoColor=white">
   <img src="https://img.shields.io/badge/LLM-2962FF?style=for-the-badge&logo=llm&logoColor=white">
   <img src="https://img.shields.io/badge/NLP-21759B?style=for-the-badge&logo=nlp&logoColor=white">
+  <img src="https://img.shields.io/badge/Computer Vision-667881?style=for-the-badge&logo=computer-vision&logoColor=white">
+  <img src="https://img.shields.io/badge/Generative AI-326ce5.svg?&style=for-the-badge&logo=generative-ai&logoColor=white">
   <img src="https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/Pytorch-298D46?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/Tensorflow-2CA5E0?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/Blockchain-4A154B?style=for-the-badge&logo=blockchain&logoColor=white">
   <img src="https://img.shields.io/badge/Bittensor-00C7B7?style=for-the-badge&logo=bittensor&logoColor=white">
-  <img src="https://img.shields.io/badge/Etherium-FF5722?style=for-the-badge&logo=etherium&logoColor=white">
+  <img src="https://img.shields.io/badge/Ethereum-FF5722?style=for-the-badge&logo=ethereum&logoColor=white">
   <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white">
   <img src="https://img.shields.io/badge/Smart Contracts-2F3134?style=for-the-badge&logo=smart-contracts&logoColor=white">
   <img src="https://img.shields.io/badge/Solidity-00599C?style=for-the-badge&logo=solidity&logoColor=white">
   <img src="https://img.shields.io/badge/NFT-00000F?style=for-the-badge&logo=nft&logoColor=white">
+  <img src="https://img.shields.io/badge/DeFi-CC6699?style=for-the-badge&logo=defi&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-430098?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FE7A16?style=for-the-badge&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white">
