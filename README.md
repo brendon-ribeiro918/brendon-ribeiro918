@@ -4,9 +4,9 @@
 
 - 📫 How to reach me :: **brendon91816@gmail.com**
 
-- 💪 Strength :: **Detail Orientation && Time Management** 
+- 💪 Strength :: **Detail Orientation && Time Management && Good Communication** 
 
-- ⚡ Fun fact :: **Code Optimization && Problem-Solving**
+- ⚡ Fun fact :: **Code Optimization && Problem Solving**
 
 - 🚀 Hobbies :: **Mathematics && Algorithms** 
 
@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/Mantine-2CA5E0?style=for-the-badge&logo=mantine&logoColor=white">
   <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <img src="https://img.shields.io/badge/Nuxt.js-FF2D20?style=for-the-badge&logo=nuxt.js&logoColor=white">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
